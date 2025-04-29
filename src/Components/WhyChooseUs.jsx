@@ -2,7 +2,7 @@ import WhyChooseCards from "./WhyChooseCards";
 
 export default function WhyChooseUs() {
   return (
-    <section className="bg-[url('/assets/WhyBackground.png')] bg-cover flex flex-col w-full sm:px-72 px-0">
+    <section className="bg-[url('/assets/WhyBackground.png')] bg-cover flex flex-col w-full sm:px-36">
       <div className="flex flex-col w-full">
         <img src="/assets/WhyText.png" alt="Why text" className="w-32 h-36" />
 
