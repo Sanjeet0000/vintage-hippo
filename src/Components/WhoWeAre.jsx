@@ -2,7 +2,7 @@ import GoldenRule from "./GoldenRule.jsx";
 import WhoWeAreCards from "./WhoWeAreCards.jsx";
 export default function WhoWeAre() {
   return (
-    <section className="bg-[url('/assets/WhoBackground.png')] bg-cover flex flex-col w-full px-72">
+    <section className="bg-[url('/assets/WhoBackground.png')] bg-cover flex flex-col w-full sm:px-72">
       <div className="flex flex-col w-full">
         <GoldenRule />
 
