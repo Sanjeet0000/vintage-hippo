@@ -1,0 +1,18 @@
+@import "tailwindcss";
+
+@font-face {
+  font-family: Abril;
+  src: url("/assets/fonts/AbrilFateface-Regular.ttf");
+}
+@font-face {
+  font-family: Cookie;
+  src: url("/assets/fonts/Cookie-Regular.ttf");
+}
+
+@theme {
+  --color-primary: #8e0028;
+  --color-secondary: #f39c12;
+
+  --font-abril: Abril, "sans-serif";
+  --font-cookie: Cookie, "sans-serif";
+}
